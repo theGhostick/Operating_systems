@@ -1,5 +1,5 @@
 #include <iostream>
-#ncludee <conio.h>
+#include <conio.h>
 #include <fstream>
 #include <unistd.h>
 #include <getopt.h>
