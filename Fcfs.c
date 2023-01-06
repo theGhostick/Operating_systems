@@ -8,15 +8,15 @@ using namespace std;
 
 int main(){
 
-int getopt(int argc, char * const argv[],
-           const char *optstring);
+tydef struct process{
 
-extern char *optarg;
-extern int optind, opterr, optopt;
-  
-  
-argv[1] = input.txt;
+ int processId;
+ int 
 
+
+
+
+};
 
 
 
