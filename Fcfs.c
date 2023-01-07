@@ -14,8 +14,8 @@ tydef struct process{
  int PBursttime;
  int priority;
  int PArrivaltime;
- 
-
+ int waitingtime
+ int showresult
 };
 
 int main(int argc, char *argv[]){
