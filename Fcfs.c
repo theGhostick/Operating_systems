@@ -16,7 +16,25 @@ tydef struct process{
  int PArrivaltime;
  int waitingtime
  int showresult
-};
+}
+process;
+
+
+void Fcfs(struct process[]){
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
 
 int main(int argc, char *argv[]){
  
