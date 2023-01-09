@@ -8,7 +8,7 @@ using namespace std;
 
 
 
-tydef struct process{
+tydef struct Process{
 
  int processId;
  int PBursttime;
@@ -17,16 +17,24 @@ tydef struct process{
  int waitingtime
  int showresult
 }
-process;
+Process;
 
 
-void Fcfs(struct process[]){
+void Fcfs(struct Process process[]){
+
+struct Process *temp ;
+temp = (struct*Process) = malloc (SIZE*sizeof(struct Process));
+
+ int count  ; 
+ int totalwaiting = o ;
+ double averagewaitingT ; 
 
 
-
-
-
-
+for (i=o: i<SIZE: i++){
+ 
+ temp[i]= process[i];
+ 
+ struct Process 
 
 
 
